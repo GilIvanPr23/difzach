@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">difzach</string>
+    <string name="pokedex_title">Poke</string>
+    <string name="search_hint">Имя или ID покемона</string>
+    <string name="search">Найти</string>
+    <string name="pokemon_image">Изображение покемона</string>
+</resources>
